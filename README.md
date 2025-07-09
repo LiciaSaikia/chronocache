@@ -140,18 +140,8 @@ Returns currently cached (non-expired) entries:
 
 - Demonstrates AI-powered caching strategies
 - Showcases Go + Python microservice orchestration
-- Useful for system design interviews or resume projects
 - Basis for extending to gRPC, Redis, or persistent stores
 
----
 
-## Future Extensions
-
-- Add delete functionality
-- Auto-renew TTL on key access
-- Store expired key history
-- gRPC microservices
-- Redis or PostgreSQL integration
-- Docker-based deployment
 
 

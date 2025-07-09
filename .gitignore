@@ -1,0 +1,15 @@
+# Go build and cache files
+*.exe
+*.out
+*.test
+
+# Python virtualenv
+ml-predictor/venv/
+
+# VS Code settings
+.vscode/
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db

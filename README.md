@@ -140,6 +140,7 @@ Returns currently cached (non-expired) entries:
 
 - Demonstrates AI-powered caching strategies
 - Showcases Go + Python microservice orchestration
+
 - Basis for extending to gRPC, Redis, or persistent stores
 
 

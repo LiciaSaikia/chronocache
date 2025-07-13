@@ -2,7 +2,7 @@
 
 ChronoCache is a smart, AI-powered caching system built using Go for performance and Python for intelligent TTL (time-to-live) prediction. It demonstrates modern backend practices including microservice communication, intelligent caching, and frontend observability.
 
-## Features
+## Features:
 
 - LRU-based in-memory cache with auto-expiry
 - Dynamic TTL prediction via FastAPI ML model

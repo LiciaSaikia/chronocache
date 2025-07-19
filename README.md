@@ -8,7 +8,7 @@ ChronoCache is a smart, AI-powered caching system built using Go for performance
 - Dynamic TTL prediction via FastAPI ML model
 - RESTful API for cache interactions
 - Frontend dashboard to monitor keys and TTLs
-- Auto-refreshing UI with live countdowns
+- Auto-refreshing UI with live countdown
 
 ---
 
